@@ -9,7 +9,7 @@ Welcome to the official website of TCESC! This conference is focused on a broad 
 
 ## Call for Papers
 
-We are currently accepting papers from international speakers. If you are interested in presenting your work, please visit the [Call for Papers](./call-for-papers.md) page for more information.
+We are currently accepting papers from international speakers. If you are interested in presenting your work, please visit the [Call for Abstracts](./call-for-abstracts.md) page for more information.
 
 ## Program Schedule
 
