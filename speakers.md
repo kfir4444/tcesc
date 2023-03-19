@@ -1,3 +1,1 @@
 [<img src="./photos/logo/home.png" alt="Home" width="32" height="32">](https://kfir4444.github.io/tcesc/)[<img src="./photos/logo/paper.png" alt="call-for-Participants" width="32" height="32">](https://kfir4444.github.io/tcesc/call-for-Participants.html)[<img src="./photos/logo/schedule.png" alt="program" width="32" height="32">](https://kfir4444.github.io/tcesc/program-schedule.html)[<img src="./photos/logo/speakers.png" alt="speakers" width="32" height="32">](https://kfir4444.github.io/tcesc/speakers.html)
-
-# blank
