@@ -25,4 +25,28 @@
   </div>
 </div>
 
-# Blank
+# Speakers
+
+## Gal Avioz Cohen
+### Integration of gadolinia doped ceria as an electrolyte material for low temperature thin-film solid oxide fuel cells.
+[<img src="./photos/soeakers/Gal Avioz Cohen.jpg" alt="Gal Avioz Cohen" width="96" height="96">]
+
+## Rinat Attias
+### Optimization of Metal Oxide/Hydroxide Catalysts for Oxygen Evolution Reaction by Relaxation Phenomena Analysis.
+[<img src="./photos/soeakers/Rinat Attias.jpg" alt="Rinat Attias" width="96" height="96">]
+
+## Nitai Arbell
+### Enantioselective Photocatalysis: A Novel Method for Enantiomeric Enrichment Via Chiral Imprinting and Activity Damping.
+[<img src="./photos/soeakers/Nitai Arbell.jpg" alt="Nitai Arbell" width="96" height="96">]
+
+## Gal Chen Palachy
+### Developing Artificial Cell Micro-Factories as Next-Generation Therapeutic Platforms.
+[<img src="./photos/soeakers/Gal Chen-Palachy.jpg" alt="Gal Chen Palachy" width="96" height="96">]
+
+## Kfir Kaplan
+### Automated rate calculator (ARC): A tool for automated ab-inito kinetics computations
+[<img src="./photos/soeakers/Kfir Kaplan.jpg" alt="Kfir Kaplan" width="96" height="96">]
+
+## Michal Levin
+### Measuring swelling induced stress of gels under constraints using 3D printing
+[<img src="./photos/soeakers/Michal Levin.jpg" alt="Michal Levin" width="96" height="96">]
