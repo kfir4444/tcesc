@@ -1,17 +1,16 @@
-<div style="display: grid; grid-template-columns: repeat(4, auto); justify-items: center; column-gap: 1rem;">
-  <a href="https://kfir4444.github.io/tcesc/"><img src="./photos/logo/home.png" alt="Home" width="32" height="32"></a>
-  <a href="https://kfir4444.github.io/tcesc/call-for-Participants.html"><img src="./photos/logo/paper.png" alt="call-for-Participants" width="32" height="32"></a>
-  <a href="https://kfir4444.github.io/tcesc/program-schedule.html"><img src="./photos/logo/schedule.png" alt="program" width="32" height="32"></a>
-  <a href="https://kfir4444.github.io/tcesc/speakers.html"><img src="./photos/logo/speakers.png" alt="speakers" width="32" height="32"></a>
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://kfir4444.github.io/tcesc/" title="Home"><img src="./photos/logo/home.png" alt="Home" width="32" height="32"></a>
+  <a href="https://kfir4444.github.io/tcesc/call-for-Participants.html" title="Call for Participants"><img src="./photos/logo/paper.png" alt="Call for Participants" width="32" height="32"></a>
+  <a href="https://kfir4444.github.io/tcesc/program-schedule.html" title="Program Schedule"><img src="./photos/logo/schedule.png" alt="Program Schedule" width="32" height="32"></a>
+  <a href="https://kfir4444.github.io/tcesc/speakers.html" title="Speakers"><img src="./photos/logo/speakers.png" alt="Speakers" width="32" height="32"></a>
 </div>
-
 
 ![logo](./photos/logo/logo.jpg)
 
 Welcome to the official website of TCESC! This conference is focused on a broad scope of research practiced in our department i.e. catalysis, energy, material science, polymers, drugs, modeling, microelectronics and sensors, and more.
 ## Event Information
 
-- Date: 1-3/08/2023
+- Date: 1-2/08/2023
 - Location: Techion, Haifa, Israel. [<img src="./photos/logo/Google_Maps_Logo_2020.svg.png" alt="Google Maps" width="32" height="32">](https://www.google.com/maps/place/Technion+-+Israel+Institute+of+Technology/@32.7767828,35.0209384,17z/data=!3m1!4b1!4m6!3m5!1s0x151dba9218aaf153:0x9aedc46b3e79c09c!8m2!3d32.7767783!4d35.0231271!16zL20vMDE1ZzNu)
 - Registration: [insert registration information]
 
