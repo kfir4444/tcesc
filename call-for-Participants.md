@@ -1,4 +1,4 @@
-[![Home](./photos/logo/home.png)](./README.md)
+[<img src="./photos/logo/home.png" alt="Home" width="32" height="32">](https://kfir4444.github.io/tcesc/)
 
 # Call For Paticipants
 
