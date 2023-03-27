@@ -27,6 +27,33 @@
 
 
 # Speakers
+## Dr. Valeri Frumkin 
+### Massachusetts Institute of Technology
+
+## Thomas Little 
+### PhD student, Professor Juliane Nguyen, North Carolina at Chapel Hill
+
+## Melissa bodine 
+### PhD student, Professor Jeffry Ealm, Argonne National Laboratory
+
+## Cornelia (Conny) Meissner
+### PhD student, Professor Alfred Crosby, university of Massachusetts Amherst
+
+## Jinwon Oh
+### PhD student, Professor Mateo Cargenello, Stanford University
+
+
+## Neetu Rani
+### PhD student, Professor Nini Pryds, Technical University of Denmark
+
+## Alexia Simon 
+### Msc student, Professor Karin Oberg, Harvard University
+
+## Matt Johnson
+### PhD student, Professor Judit Zador, Sandia National Laboratories
+
+
+
 
 ## Gal Avioz Cohen
 ### Integration of gadolinia doped ceria as an electrolyte material for low temperature thin-film solid oxide fuel cells.
@@ -51,3 +78,7 @@
 ## Michal Levin
 ### Measuring swelling induced stress of gels under constraints using 3D printing
 <img src="./photos/speakers/Michal Levin.jpg" alt="Michal Levin" width="96" height="96">
+
+## Noam Zyser
+
+
