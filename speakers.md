@@ -27,6 +27,7 @@
 
 
 # Speakers
+# International Speakers 
 ## Dr. Valeri Frumkin 
 ### Massachusetts Institute of Technology
 
@@ -55,6 +56,8 @@
 
 
 
+
+# Local Speakers 
 ## Gal Avioz Cohen
 ### PhD student, Professor Yoed Tsur, Chemical engineering faculty, Technion
 ### Integration of gadolinia doped ceria as an electrolyte material for low temperature thin-film solid oxide fuel cells.
