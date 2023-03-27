@@ -26,4 +26,6 @@
 </div>
 
 
-# Blank
+# August, 1st 2023
+<img src="./photos/speakers/day 1.jpg" alt="Day 1" width="96" height="96">
+# August, 2st 2023
