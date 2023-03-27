@@ -31,7 +31,7 @@
 
 Welcome to the official website of TCESC! This conference is focused on a broad scope of research practiced in our department i.e. catalysis, energy, material science, polymers, drugs, modeling, microelectronics and sensors, and more.
 
- <img src="./photos/speakers/Picture3.jpg" alt="Subjects"  width="60%" height="60%">
+ <img src="./photos/speakers/Picture3.jpg" alt="Subjects"  width="60%" height="60%" class="center">
 
 ## Event Information
 
