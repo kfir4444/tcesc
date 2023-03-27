@@ -28,5 +28,6 @@
 
 # August, 1st 2023
 <img src="./photos/speakers/Picture1.jpg" alt="Day 1" width="1450" height="700">
+
 # August, 2st 2023
 <img src="./photos/speakers/Picture1.jpg" alt="Day 1" width="1450" height="700">
