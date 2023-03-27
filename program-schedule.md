@@ -30,4 +30,4 @@
 <img src="./photos/speakers/Picture1.jpg" alt="Day 1" width="1450" height="700">
 
 # August, 2st 2023
-<img src="./photos/speakers/Picture1.jpg" alt="Day 1" width="1450" height="700">
+<img src="./photos/speakers/Picture2.jpg" alt="Day 2" width="1450" height="700">
