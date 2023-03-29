@@ -26,7 +26,7 @@
 </div>
 
  <div style="display: flex; flex-direction: column; align-items: center;">
-      <a href="https://TCESC.github.io/tcesc/About-Technion.html" title="About Technion"><img src="tcesc/photos/logo/Technion_Logo.png" alt="About Technion" width="32" height="32"></a>
+      <a href="https://TCESC.github.io/tcesc/About-Technion.html" title="About Technion"><img src="./photos/logo/Technion_Logo.png" alt="About Technion" width="22" height="32"></a>
       <div style="text-align: center; margin-top: 5px;">About Technion</div>
     </div>
   </div>
