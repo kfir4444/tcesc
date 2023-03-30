@@ -24,7 +24,7 @@
     </div>
   </div>
 </div>
-</div>
+
 
 <div style="display: flex; flex-direction: column; align-items: center;">
 <a href="https://www.technion.ac.il/en/home-2/" title="About Technion"><img src="./photos/logo/Technion_Logo.png" alt="About Technion" width="22" height="32"></a>
@@ -32,7 +32,7 @@
     </div>
   </div>
  </div>
-  </div>
+
   
 <div style="display: flex; flex-direction: column; align-items: center;">
 <a href="https://chemeng.technion.ac.il/" title="About the Wolfson Department of Chemical Engineering"><img src="./photos/logo/logo1-45.png" alt="About the Wolfson Department of Chemical Engineering" width="122" height="25"></a>
