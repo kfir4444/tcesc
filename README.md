@@ -35,6 +35,12 @@
 <div style="display: flex; flex-direction: column; align-items: center;">
 <a href="https://chemeng.technion.ac.il/" title="About the Wolfson Department of Chemical Engineering"><img src="./photos/logo/logo1-45.png" alt="About the Wolfson Department of Chemical Engineering" width="122" height="25"></a>
    <div style="text-align: center; margin-top: 5px;">About the Wolfson Department of Chemical Engineering</div>
+      </div>
+  </div>
+</div>
+    </div>
+  </div>
+</div>
 
 
 ![logo](./photos/logo/logo.jpg)
