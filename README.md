@@ -25,13 +25,13 @@
   </div>
   <div>
     <div style="display: flex; flex-direction: column; align-items: center;">
-      <a href="https://www.technion.ac.il/en/home-2/" title="About the Technion"><img src="./photos/logo/Technion_Logo.png" alt="About the Technion" width="44" height="32"></a>
+      <a href="https://www.technion.ac.il/en/home-2/" title="About the Technion"><img src="./photos/logo/Technion_Logo.png" alt="About the Technion" width="22" height="32"></a>
       <div style="text-align: center; margin-top: 5px;">About the Technion</div>
     </div>
   </div>
   <div>
     <div style="display: flex; flex-direction: column; align-items: center;">
-      <a href="https://chemeng.technion.ac.il/" title="About Chemical Engineering Department"><img src="./photos/logo/logo1-45.png" alt="About the Wolfson Department of Chemical Engineering" width="22" height="32"></a>
+      <a href="https://chemeng.technion.ac.il/" title="About Chemical Engineering Department"><img src="./photos/logo/logo1-45.png" alt="About the Wolfson Department of Chemical Engineering" width="44" height="32"></a>
       <div style="text-align: center; margin-top: 5px;">About Chemical Engineering Department</div>
     </div>
   </div>
