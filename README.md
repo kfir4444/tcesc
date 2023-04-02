@@ -32,7 +32,7 @@
   <div>
     <div style="display: flex; flex-direction: column; align-items: center;">
       <a href="https://chemeng.technion.ac.il/" title="About Chemical Engineering Department"><img src="./photos/logo/logo1-45.png" alt="About the Wolfson Department of Chemical Engineering" width="33" height="32"></a>
-      <div style="text-align: center; margin-top: 5px;">About Chemical Engineering Department</div>
+      <div style="text-align: center; margin-top: 5px;">About the Department</div>
     </div>
   </div>
 </div>
