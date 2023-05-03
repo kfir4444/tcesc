@@ -24,12 +24,11 @@
     </div>
   </div>
 </div>
-</div>
 
 
 # August, 1st 2023
-    ![Day 1](https://user-images.githubusercontent.com/75449651/235898407-13987193-7062-44c5-bf10-ff60dcf71b5a.jpeg)
+    ![Day 1](./photos/agenda/Agenda1.jpeg)
 # August, 2st 2023
-    ![Day 2](https://user-images.githubusercontent.com/75449651/235898495-5d211b37-7c2a-4ee5-a91b-7f504754c703.jpeg)
+    ![Day 2](./photos/agenda/Agenda2.jpeg)
     
 <a href="">Download agenda</a>
