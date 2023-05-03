@@ -64,5 +64,5 @@ If you have any questions or comments, please do not hesitate to [contact us](ma
 <a href="https://chemeng.technion.ac.il/">About Chemical Engineering Department</a>
 
 ## Sponsers
-<img src="./photos/logo/logo1-45.png" alt="Wolfson Department of Chemical Engineering" width="33" height="32">
+The Wolfson Department of Chemical Engineering: <img src="./photos/logo/logo1-45.png" alt="Wolfson Department of Chemical Engineering" width="33" height="32">
 
