@@ -27,7 +27,15 @@
 
 
 # August, 1st 2023
-<img src="./photos/speakers/Picture1.jpg" alt="Day 1" width="1450" height="700">
+<object data="./photos/agenda/Agenda_Day1.pdf" type="application/pdf"
+    <embed src="./photos/agenda/Agenda_Day1.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 # August, 2st 2023
-<img src="./photos/speakers/Picture2.jpg" alt="Day 2" width="1450" height="700">
+<object data="./photos/agenda/Agenda_Day2.pdf" type="application/pdf"
+    <embed src="./photos/agenda/Agenda_Day2.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
