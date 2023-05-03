@@ -27,9 +27,9 @@
 
 
 # August, 1st 2023
-    <img src="./photos/agenda/Agenda1.jpeg" alt="Day 1"  width="100%" height="100%" class="center">
+    ![Day 1](./photos/agenda/Agenda1.jpeg)
 
 # August, 2st 2023
-    <img src="./photos/agenda/Agenda2.jpeg" alt="Day 2"  width="100%" height="100%" class="center">
+    ![Day 2](./photos/agenda/Agenda2.jpeg)
     
 <a href="">Download agenda</a>
