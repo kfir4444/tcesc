@@ -23,6 +23,12 @@
       <div style="text-align: center; margin-top: 5px;">Speakers</div>
     </div>
   </div>
+  <div>
+    <div style="display: flex; flex-direction: column; align-items: center;">
+      <a href="https://ticks.co.il/e/1AkTbSul6m1" title="Registration"><img src="./photos/logo/registration.png" alt="Registration" width="32" height="32"></a>
+      <div style="text-align: center; margin-top: 5px;">Speakers</div>
+    </div>
+  </div>
 </div>
 
 
@@ -32,5 +38,9 @@
 # Day 2: Augost 2nd, 2023
 ![Day 2](./photos/agenda/Agenda2.jpeg)
 
-    
+# Abstract Book:
+<a href="./photos/agenda/Abstracts book.pdf">Download Book</a>
+
+
+
 <a href="">Download agenda</a>
