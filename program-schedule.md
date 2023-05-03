@@ -26,10 +26,10 @@
 </div>
 
 
-# August, 1st 2023
+# Day 1: Augost 1st, 2023
 ![Day 1](./photos/agenda/Agenda1.jpeg)
 
-# August, 2nd 2023
+# Day 2: Augost 2nd, 2023
 ![Day 2](./photos/agenda/Agenda2.jpeg)
 
     
