@@ -26,7 +26,7 @@
   <div>
     <div style="display: flex; flex-direction: column; align-items: center;">
       <a href="https://ticks.co.il/e/1AkTbSul6m1" title="Registration"><img src="./photos/logo/registration.png" alt="Registration" width="32" height="32"></a>
-      <div style="text-align: center; margin-top: 5px;">Speakers</div>
+      <div style="text-align: center; margin-top: 5px;">Registration</div>
     </div>
   </div>
 </div>
