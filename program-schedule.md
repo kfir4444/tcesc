@@ -32,13 +32,13 @@
 </div>
 
 
-# Day 1: Augost 1st, 2023
+# Day 1: August 1st, 2023
 ![Day 1](./photos/agenda/Agenda1.jpeg)
 
-# Day 2: Augost 2nd, 2023
+# Day 2: August 2nd, 2023
 ![Day 2](./photos/agenda/Agenda2.jpeg)
 
-# Abstract Book:
+# Abstract Book
 <a href="./photos/agenda/Abstracts book.pdf">Download Book</a>
 
 
