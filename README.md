@@ -58,10 +58,10 @@ A detailed program schedule for the conference will be posted closer to the even
 If you have any questions or comments, please do not hesitate to [contact us](mailto:tcesc@campus.technion.ac.il).
 
 ## About the Technion, Israel
-<a href="https://www.technion.ac.il/en/home-2/">About the Technion></a>
+<a href="https://www.technion.ac.il/en/home-2/">About the Technion</a>
 
 ## About the Wolfson Department of Chemical Engineering
-<a href="https://chemeng.technion.ac.il/">About Chemical Engineering Department></a>
+<a href="https://chemeng.technion.ac.il/">About Chemical Engineering Department</a>
 
 ## Sponsers
 <img src="./photos/logo/logo1-45.png" alt="Wolfson Department of Chemical Engineering" width="33" height="32">
