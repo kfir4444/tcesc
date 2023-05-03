@@ -24,6 +24,7 @@
     </div>
   </div>
 </div>
+</div>
 
 
 # August, 1st 2023
