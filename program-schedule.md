@@ -27,15 +27,7 @@
 
 
 # August, 1st 2023
-<object data="./photos/agenda/Agenda_Day1.pdf" type="application/pdf"
-    <embed src="./photos/agenda/Agenda_Day1.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+    <embed src="./photos/agenda/Agenda_Day1.pdf" width="2480px" height="3508px"> </embed>
 
 # August, 2st 2023
-<object data="./photos/agenda/Agenda_Day2.pdf" type="application/pdf"
-    <embed src="./photos/agenda/Agenda_Day2.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+    <embed src="./photos/agenda/Agenda_day2.pdf" width="2480px" height="3508px"> </embed>
