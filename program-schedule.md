@@ -27,8 +27,10 @@
 
 
 # August, 1st 2023
-    ![Day 1](./photos/agenda/Agenda1.jpeg)
-# August, 2st 2023
-    ![Day 2](./photos/agenda/Agenda2.jpeg)
+![Day 1](./photos/agenda/Agenda1.jpeg)
+
+# August, 2nd 2023
+![Day 2](./photos/agenda/Agenda2.jpeg)
+
     
 <a href="">Download agenda</a>
