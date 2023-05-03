@@ -30,6 +30,7 @@
 # International Speakers 
 ## Dr. Valeri Frumkin 
 ### Massachusetts Institute of Technology
+<img src="./photos/SpeakersPhotos/Valeri Frumkin.jpg" alt="Valeri Frumkin">
 
 ## Thomas Little 
 ### PhD student, Professor Juliane Nguyen, North Carolina at Chapel Hill
@@ -49,6 +50,7 @@
 
 ## Alexia Simon 
 ### Msc student, Professor Karin Oberg, Harvard University
+<img src="./photos/SpeakersPhotos/Alexia Simon.jpg" alt="Alexia Simon">
 
 ## Matt Johnson
 ### PhD student, Professor Judit Zador, Sandia National Laboratories
@@ -61,35 +63,31 @@
 ## Gal Avioz Cohen
 ### PhD student, Professor Yoed Tsur, Chemical engineering faculty, Technion
 ### Integration of gadolinia doped ceria as an electrolyte material for low temperature thin-film solid oxide fuel cells.
-<img src="./photos/speakers/Gal Avioz Cohen.jpg" alt="Gal Avioz Cohen" width="96" height="96">
+<img src="./photos/SpeakersPhotos/Gal Avioz Choen.jpg" alt="Gal Avioz Cohen">
 
 ## Rinat Attias
 ### PhD student, Professor Yoed Tsur, Chemical engineering faculty, Technion
 ### Optimization of Metal Oxide/Hydroxide Catalysts for Oxygen Evolution Reaction by Relaxation Phenomena Analysis.
-<img src="./photos/speakers/Rinat Attias.jpg" alt="Rinat Attias" width="96" height="96">
-
-## Nitai Arbell
-### PhD student, Professor Yaron Paz, Chemical engineering faculty, Technion
-### Enantioselective Photocatalysis: A Novel Method for Enantiomeric Enrichment Via Chiral Imprinting and Activity Damping.
-<img src="./photos/speakers/Nitai Arbell.jpg" alt="Nitai Arbell" width="96" height="96">
+<img src="./photos/SpeakersPhotos/Rinat Attias.jpg" alt="Rinat Attias">
 
 ## Gal Chen Palachy
 ### PhD student, Professor Avi Schroeder, Chemical engineering faculty, Technion
 ### Developing Artificial Cell Micro-Factories as Next-Generation Therapeutic Platforms.
-<img src="./photos/speakers/Gal Chen-Palachy.jpg" alt="Gal Chen Palachy" width="96" height="96">
+<img src="./photos/SpeakersPhotos/Gal Chen.jpg" alt="Gal Chen Palachy">
 
 ## Kfir Kaplan
 ### Msc student, Professor Alon Grinberg Dana, Chemical engineering faculty, Technion
 ### Automated rate calculator (ARC): A tool for automated ab-inito kinetics computations
-<img src="./photos/speakers/Kfir Kaplan.jpg" alt="Kfir Kaplan" width="96" height="96">
+<img src="./photos/SpeakersPhotos/Kfir Kaplan.jpg" alt="Kfir Kaplan">
 
 ## Michal Levin
 ### PhD student, Professor Noy Cohen, Material science engineering faculty, Technion
 ### Measuring swelling induced stress of gels under constraints using 3D printing
-<img src="./photos/speakers/Michal Levin.jpg" alt="Michal Levin" width="96" height="96">
+<img src="./photos/SpeakersPhotos/Michal Levin.jpg" alt="Michal Levin">
 
 ## Noam Zyser
 ### PhD student, Professor Vogt Charlotte, Chemistry faculty, Technion
+<img src="./photos/SpeakersPhotos/Noam Zyser.jpg" alt="Noam Zyser">
 
 ## Yuejun Yu 
 ### PhD student, Professor Yaron Paz, Chemical engineering faculty, Technion
