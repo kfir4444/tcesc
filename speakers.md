@@ -1,7 +1,7 @@
 <div style="display: flex; justify-content: space-between;">
   <div>
     <div style="display: flex; flex-direction: column; align-items: center;">
-      <a href="https://TCESC.github.io/tcesc/" title="Home"><img src="./photos/logo/home.png" alt="Home" width="320" height="320"></a>
+      <a href="https://TCESC.github.io/tcesc/" title="Home"><img src="./photos/logo/home.png" alt="Home"></a>
       <div style="text-align: center; margin-top: 5px;">Home</div>
     </div>
   </div>
@@ -37,7 +37,7 @@
 # International Speakers 
 ## Dr. Valeri Frumkin 
 ### Massachusetts Institute of Technology
-<img src="./photos/SpeakersPhotos/Valeri Frumkin.jpg" alt="Valeri Frumkin"  width="32" height="32">
+<img src="./photos/SpeakersPhotos/Valeri Frumkin.jpg" alt="Valeri Frumkin"  width="160" height="160">
 
 ## Thomas Little 
 ### PhD student, Professor Juliane Nguyen, North Carolina at Chapel Hill
