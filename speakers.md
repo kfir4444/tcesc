@@ -56,11 +56,11 @@
 ### PhD student, Professor Nini Pryds, Technical University of Denmark
 
 ## Alexia Simon 
-### Msc student, Professor Karin Oberg, Harvard University
+### PhD student, Professor Karin Oberg, Harvard University
 <img src="./photos/SpeakersPhotos/Alexia Simon.jpg" alt="Alexia Simon">
 
 ## Matt Johnson
-### PhD student, Professor Judit Zador, Sandia National Laboratories
+### Postdoctoral researcher, student, Professor Judit Zador, Sandia National Laboratories
 
 
 
