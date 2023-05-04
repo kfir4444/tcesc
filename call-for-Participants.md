@@ -34,7 +34,7 @@
 
 
 
-# Call For Paticipants
+# Call For Participants
 
 ## Flash Talks
 Abstracts for the flash talks should be submitted by [insert date] to the [conference Email.](mailto:tcesc@campus.technion.ac.il)
