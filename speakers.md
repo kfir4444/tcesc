@@ -1,7 +1,7 @@
 <div style="display: flex; justify-content: space-between;">
   <div>
     <div style="display: flex; flex-direction: column; align-items: center;">
-      <a href="https://TCESC.github.io/tcesc/" title="Home"><img src="./photos/logo/home.png" alt="Home" width="32" height="32"></a>
+      <a href="https://TCESC.github.io/tcesc/" title="Home"><img src="./photos/logo/home.png" alt="Home" width="160" height="160"></a>
       <div style="text-align: center; margin-top: 5px;">Home</div>
     </div>
   </div>
