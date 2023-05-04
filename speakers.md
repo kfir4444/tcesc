@@ -44,9 +44,11 @@
 
 ## Melissa bodine 
 ### PhD student, Professor Jeffry Ealm, Argonne National Laboratory
+<img src="./photos/SpeakersPhotos/Melissa Bodine.jpg" alt="Melissa Bodine"  width="160" height="160">
 
 ## Cornelia (Conny) Meissner
 ### PhD student, Professor Alfred Crosby, university of Massachusetts Amherst
+<img src="./photos/SpeakersPhotos/Cornelia Meissner.jpg" alt="Cornelia Meissner"  width="160" height="160">
 
 ## Jinwon Oh
 ### PhD student, Professor Mateo Cargenello, Stanford University
@@ -54,6 +56,7 @@
 
 ## Neetu Rani
 ### PhD student, Professor Nini Pryds, Technical University of Denmark
+<img src="./photos/SpeakersPhotos/Neetu Rani.jpg" alt="Neetu Rani"  width="160" height="160">
 
 ## Alexia Simon 
 ### PhD student, Professor Karin Oberg, Harvard University
@@ -92,9 +95,25 @@
 ### Measuring swelling induced stress of gels under constraints using 3D printing
 <img src="./photos/SpeakersPhotos/Michal Levin.jpg" alt="Michal Levin" width="160" height="160">
 
+## Or Peleg Evron
+### PhD student, Professor Havazelet Bianco-Peled, Technion
+### TBD
+<img src="./photos/SpeakersPhotos/Or Peleg Evron.jpg" alt="Or Peleg Evron" width="160" height="160">
+
+## Sapir Willdorf Cohen
+### PhD student, Professor Dario R. Dekel and Professor Charles E. Diesendruck,
+### Ionomer Stability Studies for Anion-Exchange Membrane Fuel Cells
+<img src="./photos/SpeakersPhotos/Sapir Willdorf-Cohen.jpg" alt="Sapir Willdorf-Cohen" width="160" height="160">
+
 ## Noam Zyser
 ### PhD student, Professor Vogt Charlotte, Chemistry faculty, Technion
+### Linking Rational Activity and Stability Design in Catalytic Electrooxidation over Nickel
 <img src="./photos/SpeakersPhotos/Noam Zyser.jpg" alt="Noam Zyser" width="160" height="160">
+
+## Yael Hershkovitz Pollak
+### PhD student, Professor Hossam Haick, Technion
+### Volatile Markers as Intercellular Communication Agents of Apoptosis
+<img src="./photos/SpeakersPhotos/Yael Hershkovitz Pollak.jpg" alt="Yael Hershkovitz Pollak" width="160" height="160">
 
 ## Yuejun Yu 
 ### PhD student, Professor Yaron Paz, Chemical engineering faculty, Technion
