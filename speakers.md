@@ -37,7 +37,7 @@
 # International Speakers 
 ## Dr. Valeri Frumkin 
 ### Massachusetts Institute of Technology
-<img src="./photos/SpeakersPhotos/Valeri Frumkin.jpg" alt="Valeri Frumkin">
+<img src="./photos/SpeakersPhotos/Valeri Frumkin.jpg" alt="Valeri Frumkin"  width="32" height="32">
 
 ## Thomas Little 
 ### PhD student, Professor Juliane Nguyen, North Carolina at Chapel Hill
