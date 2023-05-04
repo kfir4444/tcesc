@@ -88,7 +88,7 @@
 ## Kfir Kaplan
 ### Msc student, Professor Alon Grinberg Dana, Chemical engineering faculty, Technion
 ### Automated rate calculator (ARC): A tool for automated ab-inito kinetics computations
-<img src="./photos/SpeakersPhotos/Kfir Kaplan.jpg" alt="Kfir Kaplan" width="100" height="100">
+<img src="./photos/SpeakersPhotos/Kfir Kaplan.jpg" alt="Kfir Kaplan" width="160" height="160">
 
 ## Michal Levin
 ### PhD student, Professor Noy Cohen, Material science engineering faculty, Technion
