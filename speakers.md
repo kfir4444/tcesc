@@ -57,7 +57,7 @@
 
 ## Alexia Simon 
 ### PhD student, Professor Karin Oberg, Harvard University
-<img src="./photos/SpeakersPhotos/Alexia Simon.jpg" alt="Alexia Simon">
+<img src="./photos/SpeakersPhotos/Alexia Simon.jpg" alt="Alexia Simon"  width="160" height="160">
 
 ## Matt Johnson
 ### Postdoctoral researcher, student, Professor Judit Zador, Sandia National Laboratories
@@ -70,31 +70,31 @@
 ## Gal Avioz Cohen
 ### PhD student, Professor Yoed Tsur, Chemical engineering faculty, Technion
 ### Integration of gadolinia doped ceria as an electrolyte material for low temperature thin-film solid oxide fuel cells.
-<img src="./photos/SpeakersPhotos/Gal Avioz Choen.jpg" alt="Gal Avioz Cohen">
+<img src="./photos/SpeakersPhotos/Gal Avioz Choen.jpg" alt="Gal Avioz Cohen"  width="160" height="160">
 
 ## Rinat Attias
 ### PhD student, Professor Yoed Tsur, Chemical engineering faculty, Technion
 ### Optimization of Metal Oxide/Hydroxide Catalysts for Oxygen Evolution Reaction by Relaxation Phenomena Analysis.
-<img src="./photos/SpeakersPhotos/Rinat Attias.jpg" alt="Rinat Attias">
+<img src="./photos/SpeakersPhotos/Rinat Attias.jpg" alt="Rinat Attias"  width="160" height="160">
 
 ## Gal Chen Palachy
 ### PhD student, Professor Avi Schroeder, Chemical engineering faculty, Technion
 ### Developing Artificial Cell Micro-Factories as Next-Generation Therapeutic Platforms.
-<img src="./photos/SpeakersPhotos/Gal Chen.jpg" alt="Gal Chen Palachy">
+<img src="./photos/SpeakersPhotos/Gal Chen.jpg" alt="Gal Chen Palachy" width="160" height="160">
 
 ## Kfir Kaplan
 ### Msc student, Professor Alon Grinberg Dana, Chemical engineering faculty, Technion
 ### Automated rate calculator (ARC): A tool for automated ab-inito kinetics computations
-<img src="./photos/SpeakersPhotos/Kfir Kaplan.jpg" alt="Kfir Kaplan">
+<img src="./photos/SpeakersPhotos/Kfir Kaplan.jpg" alt="Kfir Kaplan" width="160" height="160">
 
 ## Michal Levin
 ### PhD student, Professor Noy Cohen, Material science engineering faculty, Technion
 ### Measuring swelling induced stress of gels under constraints using 3D printing
-<img src="./photos/SpeakersPhotos/Michal Levin.jpg" alt="Michal Levin">
+<img src="./photos/SpeakersPhotos/Michal Levin.jpg" alt="Michal Levin" width="160" height="160">
 
 ## Noam Zyser
 ### PhD student, Professor Vogt Charlotte, Chemistry faculty, Technion
-<img src="./photos/SpeakersPhotos/Noam Zyser.jpg" alt="Noam Zyser">
+<img src="./photos/SpeakersPhotos/Noam Zyser.jpg" alt="Noam Zyser" width="160" height="160">
 
 ## Yuejun Yu 
 ### PhD student, Professor Yaron Paz, Chemical engineering faculty, Technion
