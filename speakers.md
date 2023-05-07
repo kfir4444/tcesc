@@ -50,10 +50,6 @@
 ### PhD student, Professor Alfred Crosby, university of Massachusetts Amherst
 <img src="./photos/SpeakersPhotos/Cornelia Meissner.jpg" alt="Cornelia Meissner"  width="160" height="160">
 
-## Jinwon Oh
-### PhD student, Professor Mateo Cargenello, Stanford University
-
-
 ## Neetu Rani
 ### PhD student, Professor Nini Pryds, Technical University of Denmark
 <img src="./photos/SpeakersPhotos/Neetu Rani.jpg" alt="Neetu Rani"  width="160" height="160">
