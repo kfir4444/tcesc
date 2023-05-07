@@ -113,3 +113,4 @@
 
 ## Yuejun Yu 
 ### PhD student, Professor Yaron Paz, Chemical engineering faculty, Technion
+<img src="./photos/SpeakersPhotos/Yuejun Yu.jpg" alt="Yuejun Yu" width="160" height="160">
