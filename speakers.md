@@ -93,7 +93,7 @@
 
 ## Or Peleg Evron
 ### PhD student, Professor Havazelet Bianco-Peled, Technion
-### TBD
+### Injectable hydrogels physically cross-linked with nanogels
 <img src="./photos/SpeakersPhotos/Or Peleg Evron.jpg" alt="Or Peleg Evron" width="160" height="160">
 
 ## Sapir Willdorf Cohen
