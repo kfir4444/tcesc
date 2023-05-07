@@ -37,7 +37,7 @@
 # Call For Participants
 
 ## Flash Talks
-Abstracts for the flash talks should be submitted by [insert date] to the [conference Email.](mailto:tcesc@campus.technion.ac.il)
+Abstracts for the flash talks should be submitted by July 1st to the [conference Email.](mailto:tcesc@campus.technion.ac.il)
 
-## Posters Talks
-Abstracts for the posters should be submitted by [insert date] to the [conference Email.](mailto:tcesc@campus.technion.ac.il)
+## Posters
+Abstracts for the posters should be submitted by July 1st to the [conference Email.](mailto:tcesc@campus.technion.ac.il)
