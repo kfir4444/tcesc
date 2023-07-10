@@ -45,7 +45,7 @@
 ### PhD student, Professor Juliane Nguyen, North Carolina at Chapel Hill
 <hr/>
 
-## <span style="color:black"> ** Melissa Bodine** </span>
+## <span style="color:black"> **Melissa Bodine** </span>
 ### PhD student, Professor Jeffry Ealm, Argonne National Laboratory
 <img src="./photos/SpeakersPhotos/Melissa Bodine.jpg" alt="Melissa Bodine"  width="160" height="160">
 <hr/>
