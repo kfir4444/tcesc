@@ -1,35 +1,44 @@
 <div style="display: flex; justify-content: space-between;">
   <div>
     <div style="display: flex; flex-direction: column; align-items: center;">
-      <a href="https://kfir4444.github.io/tcesc/" title="Home"><img src="./photos/logo/home.png" alt="Home" width="32" height="32"></a>
+      <a href="https://TCESC.github.io/tcesc/" title="Home"><img src="./photos/logo/home.png" alt="Home" width="32" height="32"></a>
       <div style="text-align: center; margin-top: 5px;">Home</div>
     </div>
   </div>
   <div>
     <div style="display: flex; flex-direction: column; align-items: center;">
-      <a href="https://kfir4444.github.io/tcesc/call-for-Participants.html" title="Call for Participants"><img src="./photos/logo/paper.png" alt="Call for Participants" width="32" height="32"></a>
+      <a href="https://TCESC.github.io/tcesc/call-for-Participants.html" title="Call for Participants"><img src="./photos/logo/paper.png" alt="Call for Participants" width="32" height="32"></a>
       <div style="text-align: center; margin-top: 5px;">Call for Participants</div>
     </div>
   </div>
   <div>
     <div style="display: flex; flex-direction: column; align-items: center;">
-      <a href="https://kfir4444.github.io/tcesc/program-schedule.html" title="Program Schedule"><img src="./photos/logo/schedule.png" alt="Program Schedule" width="32" height="32"></a>
+      <a href="https://TCESC.github.io/tcesc/program-schedule.html" title="Program Schedule"><img src="./photos/logo/schedule.png" alt="Program Schedule" width="32" height="32"></a>
       <div style="text-align: center; margin-top: 5px;">Program Schedule</div>
     </div>
   </div>
   <div>
     <div style="display: flex; flex-direction: column; align-items: center;">
-      <a href="https://kfir4444.github.io/tcesc/speakers.html" title="Speakers"><img src="./photos/logo/speakers.png" alt="Speakers" width="32" height="32"></a>
+      <a href="https://TCESC.github.io/tcesc/speakers.html" title="Speakers"><img src="./photos/logo/speakers.png" alt="Speakers" width="32" height="32"></a>
       <div style="text-align: center; margin-top: 5px;">Speakers</div>
+    </div>
+  </div>
+  <div>
+    <div style="display: flex; flex-direction: column; align-items: center;">
+      <a href="https://ticks.co.il/e/1AkTbSul6m1" title="Registration"><img src="./photos/logo/registration.png" alt="Registration" width="32" height="32"></a>
+      <div style="text-align: center; margin-top: 5px;">Registration</div>
     </div>
   </div>
 </div>
 
-
+  
 
 ![logo](./photos/logo/logo.jpg)
 
 Welcome to the official website of TCESC! This conference is focused on a broad scope of research practiced in our department i.e. catalysis, energy, material science, polymers, drugs, modeling, microelectronics and sensors, and more.
+
+ <img src="./photos/speakers/Picture3.jpg" alt="Subjects"  width="60%" height="60%" class="center">
+
 ## Event Information
 
 - Date: 1-2/08/2023
@@ -47,3 +56,13 @@ A detailed program schedule for the conference will be posted closer to the even
 ## Contact Us
 
 If you have any questions or comments, please do not hesitate to [contact us](mailto:tcesc@campus.technion.ac.il).
+
+## About the Technion, Israel
+<a href="https://www.technion.ac.il/en/home-2/">About the Technion</a>
+
+## About the Wolfson Department of Chemical Engineering
+<a href="https://chemeng.technion.ac.il/">About Chemical Engineering Department</a>
+
+## Sponsers
+The Wolfson Department of Chemical Engineering: <img src="./photos/logo/logo1-45.png" alt="Wolfson Department of Chemical Engineering" width="33" height="32">
+
