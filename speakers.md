@@ -43,6 +43,7 @@
 
 ## <span style="color:black"> **Thomas Little** </span>
 ### PhD student, Professor Juliane Nguyen, North Carolina at Chapel Hill
+<img src="./photos/SpeakersPhotos/nophoto.jpg" alt="Thomas Little"  width="160" height="160">
 <hr/>
 
 ## <span style="color:black"> **Melissa Bodine** </span>
@@ -67,10 +68,12 @@
 
 ## <span style="color:black"> **Matt Johnson** </span>
 ### Postdoctoral researcher, student, Professor Judit Zador, Sandia National Laboratories
+<img src="./photos/SpeakersPhotos/Matthew S. Johnson.jpg" alt="Matthew S. Johnson"  width="160" height="160">
 <hr/>
 
 ## <span style="color:black"> **Emily Hanhauser** </span>
 ### Ph.D. student, Professor Rohit N Karnik, Massachusetts Institute of Technology.
+<img src="./photos/SpeakersPhotos/Emily Hanhauser.jpg" alt="Emily Hanhauser"  width="160" height="160">
 <hr/>
 
 
@@ -79,6 +82,7 @@
 ## <span style="color:black"> **Yifan Li** </span>
 ### Ph.D. student, Professor Ofer Manor, Chemical engineering faculty, Technion
 ### Phase Separation of Oil-in-Water Emulsion with Surface Acoustic Wave.
+<img src="./photos/SpeakersPhotos/nophoto.jpg" alt="Thomas Little"  width="160" height="160">
 <hr/>
 
 ## <span style="color:black"> **Rinat Attias** </span>
@@ -96,6 +100,7 @@
 ## <span style="color:black"> **Calvin Pieters** </span>
 ### Ph.D. student, Professor Alon Grinberg Dana, Chemical engineering faculty, Technion
 ### Automated rate calculator (ARC): A tool for automated ab-inito kinetics computations
+<img src="./photos/SpeakersPhotos/nophoto.jpg" alt="Calvin Pieters"  width="160" height="160">
 <hr/>
 
 ## <span style="color:black"> **Michal Levin** </span>
@@ -139,28 +144,34 @@
 
 ## <span style="color:black"> **Yaniv Farkash** </span>
 ### M.Sc student, Professor Gideon Grader, Technion
+<img src="./photos/SpeakersPhotos/Yaniv Farkash.jpg" alt="Yaniv Farkash"  width="160" height="160">
 <hr/>
 
 
 ## <span style="color:black"> **David Attia** </span>
 ### Ph.D. student, Professor Rachel Yerushalmi-rosen, Ben Gurion University
+<img src="./photos/SpeakersPhotos/David Attia.jpg" alt="David Attia"  width="160" height="160">
 <hr/>
 
 ## <span style="color:black"> **Roy Almog** </span>
 ### Ph.D. student, Professor Ronen Berkovich, Ben Gurion University
+<img src="./photos/SpeakersPhotos/Roy Almog.jpg" alt="Roy Almog"  width="160" height="160">
 <hr/>
 
 
 ## <span style="color:black"> **Jonathan Prilusky** </span>
 ### M.Sc student, Professor Lena Yadgarov, Ariel University
+<img src="./photos/SpeakersPhotos/Jonathan Prilusky.jpg" alt="Jonathan Prilusky"  width="160" height="160">
 <hr/>
 
 ## <span style="color:black"> **Chen Benafsha** </span>
 ### Ph.D. student, Professor Joseph Kost, Ben Gurion University
+<img src="./photos/SpeakersPhotos/Chen Benafsha.jpg" alt="Chen Benafsha"  width="160" height="160">
 <hr/>
 
 ## <span style="color:black"> **Yaniv Dror** </span>
 ### Ph.D. student, Professor Eran Edri, Ben Gurion University
+<img src="./photos/SpeakersPhotos/Yaniv Dror.jpg" alt="Yaniv Dror"  width="160" height="160">
 <hr/>
 
 
