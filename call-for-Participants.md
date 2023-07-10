@@ -37,7 +37,9 @@
 # Call For Participants
 
 ## Flash Talks
-Abstracts for the flash talks should be submitted by July 1st to the [conference Email.](mailto:tcesc@campus.technion.ac.il)
-
+Abstracts for the flash talks should be submitted by July 15th to the [conference Email.](mailto:tcesc@campus.technion.ac.il)
+For participants who are interested in presenting a Flash-Talk, note that each presentation will be for 3 minutes. Please prepare your presentations with this timeframe in mind. 
 ## Posters
-Abstracts for the posters should be submitted by July 1st to the [conference Email.](mailto:tcesc@campus.technion.ac.il)
+Abstracts for the posters should be submitted by July 15th to the [conference Email.](mailto:tcesc@campus.technion.ac.il)
+For participants who are interested in presenting a poster and have signed up and sent us an abstract, please make sure that your poster complies with our requirements:
+size of up to 100cm x 70cm (40'' x 28'') it may be printed on canvas, laminated paper or foamboard (kapa).
