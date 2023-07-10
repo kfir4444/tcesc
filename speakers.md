@@ -36,7 +36,7 @@
 # Speakers
 # International Speakers 
 
-## \textcolor{black}{Dr. Valeri Frumkin} 
+## <span style="color:black">Dr. Valeri Frumkin</span>.
 ### Massachusetts Institute of Technology
 <img src="./photos/SpeakersPhotos/Valeri Frumkin.jpg" alt="Valeri Frumkin"  width="160" height="160">
 <hr/>
