@@ -34,7 +34,7 @@
 
 
 # Schedule
-![Day 1](./photos/agenda/TCESC 2023 Schedule.jpg)
+![Schedule](./photos/agenda/Conference Schedule-1.pdf)
 
 # Abstract Book
 <a href="./photos/agenda/Abstracts book.pdf">Download Book</a>
